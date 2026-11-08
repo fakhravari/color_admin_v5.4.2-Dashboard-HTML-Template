@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+**/node_modules/
+# Keep the bundled editor used by the HTML demo; omit its unused source packages.
+assets/plugins/@ckeditor/*
+!assets/plugins/@ckeditor/ckeditor5-build-classic/
